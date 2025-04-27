@@ -14,22 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 const randomtextstuff = [
-    "MANGO MANGO 💀🙏",
-    "DOWN WITH BLOCKERS",
-    '"faggot!" - szvy',
-    "also try getaway shootout",
-    "official frogie's arcade song goes hard",
-    "we love frogie's arcade",
-    "save your data!",
-    "we dont talk about TBG95.",
-    '"may you please add roblox???🥺"',
-    "join the discord!",
-    "search freely....",
-    "all unblocked!",
-    "oil up lil bro",
-    "fa v4 when?",
-    "stephanie.pillers@cfisd.net",
-    "calvillo5432ud@gmail.com",
-    "this is indeed a proxy",
+    "roman made this!",
+    '"gee wilikers!" - scrxbble',
     "whats on your mind?"
 ];
